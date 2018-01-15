@@ -892,7 +892,7 @@ By default when you install the Visual Studio Tooling for Apache Cordova, it dow
 > If you want to download additional devices, open up the Visual Studio Emulator for Android, find the device that you want to download and click on the ![download device icon](images/emulator-2-download-icon.png) icon for the device you want.  Once you download a device it will automatically become available as a target in Visual Studio for the AllReadyApp project.
 
 
-**WARNING:** With the default configuration of the Mobile App, you will not be able to communicate with the Api since it uses the web site running locally on your running using localhost which is not available to external devices or emulators.  To get around this you need to make sure that any Api changes you have made have have been submitted as a Pull Request and merged into the AllReady master branch.  
+**WARNING:** With the default configuration of the Mobile App, you will not be able to communicate with the Api since it uses the web site running locally on your running using localhost which is not available to external devices or emulators.  To get around this you need to make sure that any Api changes you have made have been submitted as a Pull Request and merged into the AllReady master branch.  
 
 Changing the Api Url requires a coding change.
 
